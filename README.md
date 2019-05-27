@@ -4,4 +4,4 @@ Decision Tree Classifier is a model that makes it prediction of a class or targe
 
 ## Implementation
 
-The code shows the implementation of Decision tree model
+The code shows the implementation of Decision tree model to make prediction and also the accuracy of the model
